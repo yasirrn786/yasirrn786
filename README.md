@@ -1,172 +1,36 @@
-```
-╔══════════════════════════════════════════════════════════════╗
-║  IDENTITY.md — CLASSIFIED TECHNICAL DOSSIER                  ║
-║  SUBJECT: YASIR RAMJAN NADAF                                  ║
-║  CLEARANCE: PUBLIC — v1.0.0 — LAST UPDATED: 2025             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<h1 align="center">Hi 👋, I'm yasir</h1>
+<h3 align="center">Creative Technologist · Cybersecurity Learner · AI Explorer</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirrn786&label=Profile%20views&color=0e75b6&style=flat" alt="yasirrn786" /> </p>
 
-## `$ whoami`
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirrn786" alt="yasirrn786" /></a> </p>
 
-**Yasir Ramjan Nadaf**
-`Creative Technologist` · `Cybersecurity Learner` · `AI Explorer`
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+- 🔭 I’m currently working on **Cybersecurity research and experimental engineering projects**
 
-## OPERATING THESIS
+- 🌱 I’m currently learning **Ethical hacking methodologies, Linux internals, and applied AI systems**
 
-```
-Systems don't fail at the edges — they fail at the assumptions.
-I build to expose those assumptions.
+- 👯 I’m looking to collaborate on **Cybersecurity research and experimental engineering projects**
 
-My work sits at the intersection of creative systems engineering,
-security research, and experimental computation. The goal is never
-the product. The goal is the understanding that survives after
-the product breaks.
+- 🤝 I’m looking for help with **Advanced security tooling and scalable automation design**
 
-I operate under a single loop:
+- 💬 Ask me about **Cybersecurity, automation workflows, and system architecture**
 
-    while (alive):
-        BUILD → BREAK → LEARN → REPEAT
-```
+- 📫 How to reach me **yasirrn786@gmail.com**
 
-Not a philosophy. A process.
+- ⚡ Fun fact **I learn more from broken systems than working ones**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ya5ir___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ya5ir___" height="30" width="40" /></a>
+</p>
 
-## SYSTEM DIAGNOSTIC
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### `[MODULE_01]` — Core Runtime
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirrn786&show_icons=true&locale=en&layout=compact" alt="yasirrn786" /></p>
 
-| Layer | Stack | Status |
-|---|---|---|
-| `LANG_PY` | Python | `● ACTIVE` |
-| `LANG_JS` | JavaScript | `● ACTIVE` |
-| `LANG_WEB` | HTML / CSS | `● ACTIVE` |
-| `OS_ENV` | Linux | `● ACTIVE` |
-| `VCS` | Git | `● ACTIVE` |
-| `IDE` | VS Code | `● ACTIVE` |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirrn786&show_icons=true&locale=en" alt="yasirrn786" /></p>
 
----
-
-### `[MODULE_02]` — Domain Proficiencies
-
-| Domain | Focus Area | Signal |
-|---|---|---|
-| `SECURITY` | Ethical Hacking · Recon · CTF | `▓▓▓▓░ BUILDING` |
-| `AUTOMATION` | Scripting · Task Orchestration | `▓▓▓▓░ BUILDING` |
-| `AI_SYS` | Experimental ML · Agent Flows | `▓▓▓░░ PROBING` |
-| `FRONTEND` | Interfaces · System UX | `▓▓▓▓░ BUILDING` |
-| `INFRA` | Linux · CLI · Dev Environments | `▓▓▓▓░ BUILDING` |
-
----
-
-### `[MODULE_03]` — Operational Traits
-
-| Attribute | Value |
-|---|---|
-| `APPROACH` | Systematic. Iterative. Unafraid to break things. |
-| `MINDSET` | Security-first. Privacy-aware. Experimentally driven. |
-| `OUTPUT` | Clean builds. Documented failures. Documented learnings. |
-| `BIAS` | Toward understanding internals, not just interfaces. |
-
----
-
-## ACTIVE PROCESSES
-
-```bash
-$ ps aux --sort=-%cpu | grep YASIR
-
-PID     PROCESS                  STATUS        ETA
-─────────────────────────────────────────────────────────────
-0x01    ethical_hacking.study    RUNNING       [ongoing]
-0x02    python_automation.build  RUNNING       [ongoing]
-0x03    ai_experimentation.lab   RUNNING       [ongoing]
-0x04    linux_internals.probe    RUNNING       [ongoing]
-0x05    futuristic_ui.prototype  SPAWNING      [soon]
-─────────────────────────────────────────────────────────────
-5 processes running. 0 crashed. 0 suspended.
-```
-
-> These aren't side projects.
-> These are active lines of inquiry.
-
----
-
-## EXPERIMENT LOG
-
-> Projects are systems. Systems have architecture, failure modes, and lessons.
-
-| `ID` | System | Description | Stack | State |
-|---|---|---|---|---|
-| `EXP-001` | `REDACTED` | Automation framework for repetitive recon tasks | Python · Linux | `[ACTIVE]` |
-| `EXP-002` | `REDACTED` | Experimental AI prompt-flow architecture | Python · API | `[ACTIVE]` |
-| `EXP-003` | `REDACTED` | Terminal-aesthetic personal interface build | HTML · CSS · JS | `[BUILDING]` |
-| `EXP-004` | `REDACTED` | CTF challenge writeup archive + personal notes | Markdown · Git | `[ONGOING]` |
-
-```
-NOTE: Select experiments remain undisclosed until deployment.
-Full source available on request or via repository inspection.
-```
-
----
-
-## PERFORMANCE METRICS
-
-> System telemetry — pulled live from the field.
-
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasirRamjanNadaf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&icon_color=00ff41)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YasirRamjanNadaf&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasirRamjanNadaf&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc)
-
----
-
-## SKILL SIGNATURE
-
-> Runtime environment — verified toolchain.
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=00ff41)
-![VS Code](https://img.shields.io/badge/VSCode-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=00ff41)
-![Kali Linux](https://img.shields.io/badge/Kali-0d0d0d?style=flat-square&logo=kalilinux&logoColor=00ff41)
-
----
-
-## CONTACT PROTOCOL
-
-```
-CHANNEL     : GitHub Issues / Discussions
-RESPONSE    : Asynchronous. Precise.
-INTENT REQ. : State your purpose clearly.
-NOISE TOL.  : Low.
-```
-
-> Collaboration considered for:
-> — Security research · Experimental builds · AI tooling · Unconventional interfaces
-
----
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  EOF — DOSSIER v1.0.0                                         ║
-║  "The best systems don't just work. They teach you           ║
-║   something when they fail."                                  ║
-║                                           — Y.R.N.            ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirrn786&" alt="yasirrn786" /></p>
